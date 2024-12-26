@@ -8,7 +8,7 @@ const App = () => {
       header={<h1>Welcome to my website</h1>}
       footer={<p></p>}
     >
-      <p>This is content of my website.</p>
+      <p>This is the content of my website.</p>
     </PageLayout>
   );
 };
