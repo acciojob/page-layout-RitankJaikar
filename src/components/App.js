@@ -6,7 +6,7 @@ const App = () => {
   return (
     <PageLayout
       header={<h1>Welcome to my website</h1>}
-      footer={<p>© 2023 My Website. All rights reserved.</p>}
+      footer={<p></p>}
     >
       <p>This is content of my website.</p>
     </PageLayout>
